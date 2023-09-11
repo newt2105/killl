@@ -1,0 +1,10 @@
+Maximize 
+
+Obj: 6*y + -3*z + -1*k
+Constraints:
+C1: 2*y + 3*z <= 5
+C2: 6*y + 5*z >= 9
+Variable
+y  z  k 
+
+End
